@@ -1,2 +1,3 @@
-# BaekJoon
-백준 문제풀이
+# 📚Baekjoon
+
+◽ [Baekjoon](https://www.acmicpc.net/)
