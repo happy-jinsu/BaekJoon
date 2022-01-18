@@ -5,11 +5,11 @@ int main()
 {
 	int i, j, num1, num2, sum = 0, finalSum = 0;
 
-	//¼ýÀÚ ÀÔ·Â ¹Þ±â
+	//1. ìž…ë ¥ ë°›ê¸°
 	scanf("%d", &num1);
 	scanf("%d", &num2);
 
-	// °è»ê ÇÏ±â
+	//2. ê³„ì‚° í•˜ê¸°
 	sum += num1 * (num2 % 10);   // 472 * 5
 	printf("%d\n", sum);
 	finalSum += sum;
